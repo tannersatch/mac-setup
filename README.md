@@ -51,6 +51,12 @@ My preferences, apps, and settings when setting up a new mac.
 
 ### Wallpaper
 - Set what you want
+
+### Mouse
+- Tracking speed
+    - Bump it up one notch
+- Natural scrolling
+    - Turn it off if you aren't on a trackpad
 ## Install Apps
 
 - Install [Homebrew](https://brew.sh)
@@ -58,3 +64,7 @@ My preferences, apps, and settings when setting up a new mac.
     ```bash
     xargs brew install --cask < brew-casks.txt
     ```
+
+
+
+    
