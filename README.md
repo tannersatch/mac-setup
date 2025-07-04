@@ -60,9 +60,9 @@ My preferences, apps, and settings when setting up a new mac.
 ## Install Apps
 
 - Install [Homebrew](https://brew.sh)
-- Install all other Apps from the `brew-casks.txt` file included in this repo.
+- Install all other Apps from the `brew-cask-apps.txt` file included in this repo.
     ```bash
-    xargs brew install --cask < brew-casks.txt
+    xargs brew install --cask < brew-cask-apps.txt
     ```
 
 
