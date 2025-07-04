@@ -49,13 +49,12 @@ My preferences, apps, and settings when setting up a new mac.
 ### Screen Saver
 - Set what you want
 
-### Sallpaper
+### Wallpaper
 - Set what you want
-## App Installation
+## Install Apps
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+- Install [Homebrew](https://brew.sh)
+- Install all other Apps from the `brew-casks.txt` file included in this repo.
+    ```bash
+    xargs brew install --cask < brew-casks.txt
+    ```
