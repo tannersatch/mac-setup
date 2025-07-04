@@ -31,7 +31,8 @@ My preferences, apps, and settings when setting up a new mac.
 
 ### Desktop & Dock
 - Dock:
-    - Automatically hide and show the Dock
+    - Automatically hide and show the Dock: On
+    - Show suggested and recent apps in Dock: Off
 - Desktop & Stage Manager
     - Show Items
         - Uncheck `On Desktop`
