@@ -8,7 +8,7 @@ My preferences, apps, and settings when setting up a new mac.
 
 ### General
 - Name:
-    - Tanners [Chip] [Device] (e.g. Tanners M2 Max Studio)
+    - Tanner's [Chip] [Device] (e.g. Tanners M2 Max Studio)
 
 ### Appearance
 - Appearance
