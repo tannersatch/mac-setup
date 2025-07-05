@@ -9,3 +9,4 @@ brew install --cask readdle-spark
 brew install --cask logi-options+
 docker
 alt-tab
+copyclip
