@@ -66,7 +66,8 @@ My preferences, apps, and settings when setting up a new mac.
     xargs brew install < brew-apps.txt
     xargs brew install --cask < brew-cask-apps.txt
     ```
-
-
+- Install the following from the Mac App Store:
+    - Copyclip
+    - xCode
 
     
