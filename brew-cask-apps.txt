@@ -10,3 +10,4 @@ logi-options+
 docker
 alt-tab
 copyclip
+bambu-studio
