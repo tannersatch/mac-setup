@@ -9,5 +9,5 @@ readdle-spark
 logi-options+
 docker
 alt-tab
-copyclip
+maccy
 bambu-studio
