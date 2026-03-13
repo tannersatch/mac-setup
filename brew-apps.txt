@@ -1,2 +1,2 @@
 hiddenbar
-stats
+scroll-reverser
