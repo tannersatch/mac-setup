@@ -11,3 +11,4 @@ docker
 alt-tab
 maccy
 bambu-studio
+android-studio
