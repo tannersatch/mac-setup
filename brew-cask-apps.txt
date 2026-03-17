@@ -12,3 +12,4 @@ alt-tab
 maccy
 bambu-studio
 android-studio
+spotify
