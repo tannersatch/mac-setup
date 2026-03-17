@@ -13,4 +13,4 @@ maccy
 bambu-studio
 android-studio
 spotify
-TheBoredTeam/boring-notch/boring-notch --no-quarantine
+TheBoredTeam/boring-notch/boring-notch
